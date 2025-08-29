@@ -63,7 +63,7 @@ In today’s hyper-connected world, people are **struggling with tech overuse**.
 ---
 
 ## 👩‍💻 Team  
-- *WebWeavers*  
+- *Drop Set Coders*  
 
 ---
 
