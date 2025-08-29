@@ -7,7 +7,7 @@
 ## 📖 About LifeSync  
 LifeSync is an **AI-powered digital well-being platform** designed to help individuals build healthier tech habits, reduce digital fatigue, and foster meaningful offline connections. Unlike traditional apps that just track screen time, LifeSync **leverages AI & ML to analyze behavioral patterns, provide personalized nudges, and sync user lifestyle goals with mindful digital usage.**  
 
-Our solution is **future-ready and sustainable**, aligned with the **CodeVeda hackathon theme of innovation for a sustainable tomorrow**. LifeSync not only enhances personal health but also promotes societal well-being by encouraging balanced use of technology.  
+Our solution is **future-ready and sustainable**. LifeSync not only enhances personal health but also promotes societal well-being by encouraging balanced use of technology.  
 
 ---
 
